@@ -18,6 +18,10 @@ A responsive YouTube clone built with HTML and CSS, featuring a clean interface 
 - **Material Icons** - Google Material Design icons
 - **Font Awesome** - Social media and brand icons
 
+## 📸 Screenshots
+### Youtube-clone Page
+![Uploading youtube_clone.png.png…]()
+
 ## 📋 Project Structure
 
 ```
