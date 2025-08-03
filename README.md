@@ -20,7 +20,7 @@ A responsive YouTube clone built with HTML and CSS, featuring a clean interface 
 
 ## 📸 Screenshots
 ### Youtube-clone Page
-![Screenshot](./screenshots/youtube-clone.png)
+![YouTube Clone Screenshot](./youtube-clone.png)
 
 ## 📋 Project Structure
 
@@ -30,6 +30,7 @@ youtube-clone/
 ├── styles.css
 ├── script1.js
 ├── README.md
+├── youtube-clone.png
 ├── thumbnail1.jpg
 ├── thumbnail2.jpg
 ├── thumbnail3.jpg
