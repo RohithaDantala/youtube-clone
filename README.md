@@ -20,7 +20,7 @@ A responsive YouTube clone built with HTML and CSS, featuring a clean interface 
 
 ## 📸 Screenshots
 ### Youtube-clone Page
-![Uploading youtube_clone.png.png…]()
+![Screenshot](./screenshots/youtube-clone.png)
 
 ## 📋 Project Structure
 
@@ -28,6 +28,7 @@ A responsive YouTube clone built with HTML and CSS, featuring a clean interface 
 youtube-clone/
 ├── youtube.html
 ├── styles.css
+├── script1.js
 ├── README.md
 ├── thumbnail1.jpg
 ├── thumbnail2.jpg
@@ -89,6 +90,15 @@ The layout adapts to different screen sizes with:
 - 📱 Mobile-friendly navigation
 - 💻 Desktop optimized sidebar
 - 📐 Flexible video grid layout
+
+## Features
+-🔺 YouTube-style navigation bar with logo, search, and icons
+- 📺 Video grid layout showing thumbnails, titles, and video details
+- 🎤 Voice search icon with basic click interaction
+- 🧭 Sidebar navigation: Home, Explore, Subscriptions, etc.
+- 🌗 Dark mode toggle for switching themes
+- 🖱️ Basic JavaScript interactivity: search alerts, clickable videos
+- 📱 Responsive design for mobile and desktop views
 
 ## 🎯 Future Enhancements
 
